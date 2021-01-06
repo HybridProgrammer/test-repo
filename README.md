@@ -1,2 +1,2 @@
 # test-repo
-b1 - update 1
+b1 - update 2
